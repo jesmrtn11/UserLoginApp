@@ -1,0 +1,17 @@
+{
+  "name": "userloginapp",
+  "version": "1.0.0",
+  "description": "Assignment 1 with Node and Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jesica Martin",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
